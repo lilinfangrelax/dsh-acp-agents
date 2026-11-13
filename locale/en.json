@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "External agents (ACP)",
+    "description": "Connect Harness to OpenCode, Gemini CLI, Codex, Claude Agent, Cursor, Kimi and other ACP agents installed on this machine. Detect local agents, browse the official ACP Registry, and delegate tasks to them with the acp_delegate tool."
+  }
+}

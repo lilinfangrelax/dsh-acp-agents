@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "外部 Agent（ACP）",
+    "description": "通过 Agent Client Protocol 把 DeepSeek Harness 连接到本机的 OpenCode、Gemini CLI、Codex、Claude Agent、Cursor、Kimi 等 Agent：自动探测本机安装、接入官方 ACP Registry，并可用 acp_delegate 工具把任务交给它们。"
+  }
+}
